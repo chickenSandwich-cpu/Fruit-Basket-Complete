@@ -21,6 +21,9 @@ Welcome to Fruit Basket, where your speed, precision, and reflexes will be put t
 - 🍌 Golden Banana Bonus—double points? (updated!!!)
 - 🎨 Particle Effects—juice splashes when catching fruit? (or...? no spoiler haha) ((kinda) updated!!!!)
 
+## ❓ How to install?
+- No need to download Python, in the Repo, just click Code🔽 ➡️ Download Zip ➡️ Extract (unzip) the file, navigate to the **Fruit Basket** folder, and run **Fruit Basket.exe** to play!
+
 ## 📝 License
 This project is licensed under **Creative Commons BY-NC-ND 4.0**.  
 🔒 **This means:**  
