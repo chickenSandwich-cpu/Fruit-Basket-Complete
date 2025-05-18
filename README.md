@@ -4,7 +4,7 @@
 Welcome to Fruit Basket, where your speed, precision, and reflexes will be put to the test! Catch those falling fruits, rack up points, and don’t let them slip away!😱🍎🍌
 
 ## 🚀 How to Play
-- Fruits fall from the sky—catch them with your basket!🍅🥕🍏
+- Fruits fall from the sky—catch them with your basket!🍅🥕🍏🍌
 - Move left and right to position your basket!⬅️➡️
 - Score points every time a fruit lands safely!✅
 - As time progresses, fruits drop FASTER!!😱💨
@@ -13,13 +13,13 @@ Welcome to Fruit Basket, where your speed, precision, and reflexes will be put t
 ## 🔧 Technologies Used
 - Python🐍
 - Pygame🎮
-- Randomized Fruit Mechanics🍅🥕🍏
+- Randomized Fruit Mechanics🍅🥕🍏🍌
 - Juicy Pixel Art Sprites🎨
 
 ## ❓ Future Updates & Power-Ups?
 - 🔊 Game Sounds!🎶 (updated!!)
 - 🍌 Golden Banana Bonus—double points? (updated!!!)
-- 🎨 Particle Effects—juice splashes when catching fruit? (or...? no spoiler haha)
+- 🎨 Particle Effects—juice splashes when catching fruit? (or...? no spoiler haha) ((kinda) updated!!!!)
 
 ## 📝 License
 This project is licensed under **Creative Commons BY-NC-ND 4.0**.  
